@@ -1,0 +1,7 @@
+# A ferramenta PHPUnit (não se envia para o GitHub)
+phpunit
+phpunit.phar
+
+# Ficheiros temporários
+.phpunit.result.cache
+/vendor/
